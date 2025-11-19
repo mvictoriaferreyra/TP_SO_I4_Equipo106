@@ -6,3 +6,11 @@ A- AZUL
 b- AMARILLO
 C- AMARILLO
 D- Quedó el favicon de ALFA
+E- Si, el integrante BETA
+F- El problema fue que el remoto tenía cambios que BETA no tenía en su local.
+G- Solución 1: usar "push -f", con el que se sobreescriben los cambios que estaban en el remoto.
+Solución 2: Que BETA traiga los cambios del remoto, en ese caso, los cambios que realizó BETA se pierden.
+Solución 3: Resolver el conflicto manualmente, editando el archivo.
+
+H- Si cada uno hace "push -f", se conservan los cambios de quien haya hecho el último "push -f".
+I- Se debe editar el archivo de manera manual. 
